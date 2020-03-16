@@ -1,3 +1,5 @@
+This is just the Redux tute. A backup for me, not really intended for public consumption.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
